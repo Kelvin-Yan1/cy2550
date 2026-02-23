@@ -22,5 +22,7 @@ eliteextraintcat:eagles
 hipurcedree:password
 struping:computer
 whiteenthor:mercedes
+updateson:angel21
+tacticreport:280773
 
-24 password hashes cracked, 26 left
+26 password hashes cracked, 24 left
